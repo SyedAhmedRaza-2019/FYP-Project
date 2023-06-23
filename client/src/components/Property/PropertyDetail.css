@@ -1,0 +1,36 @@
+.cont {
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+
+
+  }
+  
+  .image-cont {
+    flex: 1;
+    margin-right: 100px;
+  }
+  
+  .image-cont img {
+    width: 30vw;
+    height: 45vh;
+  }
+  
+  .details-cont {
+    flex: 2;
+  }
+  
+  .property-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .property-detail {
+    margin-bottom: 5px;
+  }
+  
+  .property-description {
+    margin-top: 20px;
+    padding-right: 150px;
+  }
+  

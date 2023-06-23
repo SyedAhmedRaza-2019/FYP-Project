@@ -1,0 +1,17 @@
+.footerContact {
+  background-color: #27ae60;
+  padding: 40px 0;
+  color: #fff;
+}
+.footerContact h1 {
+  font-size: 40px;
+}
+
+@media screen and (max-width: 800px) {
+  footer .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.box{
+  padding-right: 100px;
+}
